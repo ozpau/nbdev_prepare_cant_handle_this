@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_prepare_cant_handle_this"
+  site-url: "https://ozpau.github.io/nbdev_prepare_cant_handle_this"
+  description: "A repository description with " and maybe even this } { ] ["
+  repo-branch: main
+  repo-url: "https://github.com/ozpau/nbdev_prepare_cant_handle_this"
